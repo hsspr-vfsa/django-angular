@@ -15,8 +15,7 @@
   },
   "forwardPorts": [
     {
-      "port": 8003,
-      "publicPort": 8000
+      "port": 8000
     }
   ]
 }
