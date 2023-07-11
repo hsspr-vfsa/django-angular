@@ -7,7 +7,8 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "pylint.pylint",
-    "alexcvzz.vscode-sqlite"
+    "alexcvzz.vscode-sqlite",
+    "qwtel.sqlite-viwer-vscode"
   ],
   "settings": {
     "python.pythonPath": "/usr/local/bin/python",
