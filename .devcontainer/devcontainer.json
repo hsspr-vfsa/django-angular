@@ -1,0 +1,17 @@
+{
+  "name": "django-angular container",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "pylint.pylint"
+  ],
+  "settings": {
+    "python.pythonPath":"/usr/local/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+  },
+  "forwardPorts": [8000]
+}
