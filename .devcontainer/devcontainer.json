@@ -14,9 +14,5 @@
     "python.linting.pylintEnabled": true,
     "postCreateCommand": "pipenv install django && pipenv shell"
   },
-  "forwardPorts": [
-    {
-      "port": 8000
-    }
-  ]
+  "forwardPorts": [8000]
 }
