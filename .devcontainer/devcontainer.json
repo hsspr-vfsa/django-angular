@@ -11,8 +11,8 @@
   "settings": {
     "python.pythonPath": "/usr/local/bin/python",
     "python.linting.enabled": true,
-    "python.linting.pylintEnabled": true,
-    "postCreateCommand": "cd django && pipenv install django && pipenv shell"
+    "python.linting.pylintEnabled": true
   },
+  "postCreateCommand": "cd django && pipenv install django && pipenv shell",
   "forwardPorts": [8000]
 }
