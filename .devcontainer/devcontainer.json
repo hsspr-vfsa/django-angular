@@ -13,5 +13,10 @@
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true
   },
-  "forwardPorts": [8000]
+  "forwardPorts": [
+    {
+      "port": 8003,
+      "publicPort": 8000
+    }
+  ]
 }
