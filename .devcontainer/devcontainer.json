@@ -1,5 +1,5 @@
 {
-  "name": "django-angular container",
+  "name": "django-angular",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
   },
@@ -8,7 +8,7 @@
     "ms-python.vscode-pylance",
     "pylint.pylint",
     "alexcvzz.vscode-sqlite",
-    "qwtel.sqlite-viwer-vscode"
+    "qwtel.sqlite-viwer"
   ],
   "settings": {
     "python.pythonPath": "/usr/local/bin/python",
