@@ -13,6 +13,6 @@
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true
   },
-  "postCreateCommand": "cd django && pipenv install django && pipenv shell",
+  "postCreateCommand": "cd django && pipenv install && pipenv shell",
   "forwardPorts": [8000]
 }
