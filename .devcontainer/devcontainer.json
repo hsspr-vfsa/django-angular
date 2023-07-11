@@ -6,8 +6,7 @@
   "extensions": [
     "ms-python.python",
     "ms-python.vscode-pylance",
-    "pylint.pylint",
-    "qwtel.sqlite-viewer"
+    "pylint.pylint"
   ],
   "settings": {
     "python.pythonPath": "/usr/local/bin/python",
