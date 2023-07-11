@@ -7,14 +7,13 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "pylint.pylint",
-    "alexcvzz.vscode-sqlite",
-    "qwtel.sqlite-viwer"
+    "qwtel.sqlite-viewer"
   ],
   "settings": {
     "python.pythonPath": "/usr/local/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true
   },
-  "postCreateCommand": "cd django && pipenv install && pipenv shell",
+  "postCreateCommand": "cd django",
   "forwardPorts": [8000]
 }
