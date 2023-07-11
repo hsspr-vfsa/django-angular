@@ -19,3 +19,6 @@ python manage.py migrate
 
 # run server
 python manage.py runserver 0.0.0.0:8000
+
+# add codespace conf file
+git add .devcontainer/devcontainer.json
