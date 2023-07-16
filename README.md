@@ -1,4 +1,4 @@
-# django-angular
+# django-demo
 
 python --version
 
